@@ -23,44 +23,10 @@ Testandi includes 13 robust financial calculators:
 *   **Local Storage:** Save your calculation history directly to your device. 
 *   **Cross-Platform:** Beautifully designed for both iOS and Android platforms.
 
-## Tech Stack
-
-*   **Framework:** [React Native](https://reactnative.dev/) (v0.88.0-rc.1) & [Expo](https://expo.dev/) (v58.0.0-preview.4)
-*   **Language:** [TypeScript](https://www.typescriptlang.org/)
-*   **State Management:** [Zustand](https://github.com/pmndrs/zustand)
-*   **Navigation:** [React Navigation](https://reactnavigation.org/) (Native Stack)
-
-## Getting Started
-
-### Prerequisites
-
-*   Node.js (LTS recommended)
-*   npm or yarn
-*   Expo CLI (`npm install -g expo-cli`)
-*   iOS Simulator (Mac only) or Android Emulator for testing
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/testandi.git
-   cd testandi
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Start the Expo development server:
-   ```bash
-   npm start
-   ```
-
-### Running the App
-*   Press `i` in the terminal to open in the iOS simulator.
-*   Press `a` to open in the Android emulator.
-*   Scan the QR code with the Expo Go app on your physical device.
+## Docs
+- [Privacy Policy](privacy-policy.md)
+- [EULA](eula.md)
+- [Terms of Use](terms-of-use.md)
 
 ## License
 
