@@ -24,9 +24,9 @@ Testandi includes 13 robust financial calculators:
 *   **Cross-Platform:** Beautifully designed for both iOS and Android platforms.
 
 ## Docs
-- [Privacy Policy](privacy-policy.md)
+- [Privacy Policy](privacy_policy.md)
 - [EULA](eula.md)
-- [Terms of Use](terms-of-use.md)
+- [Terms of Use](terms_of_use.md)
 
 ## License
 
